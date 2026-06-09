@@ -66,6 +66,7 @@
 
    (Every graph should answer a question.)
 
+
 7. Key Findings
    - Most important observations
    - Hidden patterns
@@ -78,9 +79,35 @@
    - Limitations of the data
    - Possible next steps
 
-9. What I Learned
+9. Data Preprocesssing:
+   (making the data ready to build models)
+
+10. What I Learned
    - Pandas concepts used
    - Visualization techniques used
    - Data cleaning methods learned
    - Analytical thinking developed
    - Mistakes and lessons
+
+
+
+
+Dataset
+   ↓
+Data Exploration (EDA)
+   ↓
+Basic Cleaning
+   ↓
+Train a Simple Model
+   ↓
+Evaluate Results
+   ↓
+Ask "Why is accuracy low?"
+   ↓
+Feature Engineering
+   ↓
+Feature Selection
+   ↓
+Better Model
+   ↓
+Compare Results

@@ -48,8 +48,20 @@
    B. Bivariate Analysis
       - Relationship between two variables
 
-   C. Multivariate Analysis
+   C. Correlation Analysis
+      - Correlation matrix
+      - Heatmap
+
+   D. Multivariate Analysis
       - Multiple variable interactions
+
+| Combination                        | Good Plot            |
+| ---------------------------------- | -------------------- |
+| Categorical + Categorical + Target | Countplot / Catplot  |
+| Numerical + Categorical + Target   | Boxplot / Violinplot |
+| Numerical + Numerical + Target     | Scatterplot with hue |
+| Many numerical variables + Target  | Pairplot             |
+
 
   ( Univariate
       -> Histograms
@@ -65,9 +77,6 @@
       -> Pairplots
       -> Heatmaps )
 
-   D. Correlation Analysis
-      - Correlation matrix
-      - Heatmap
 
 6. Visualizations
    - Histograms
